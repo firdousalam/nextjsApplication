@@ -1,0 +1,1 @@
+# nextjsApplication
